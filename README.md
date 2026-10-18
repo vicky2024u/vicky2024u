@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**vicky2024u/vicky2024u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://raw.githubusercontent.com/vicky2024u/Github/main/banner.png)
 
-Here are some ideas to get you started:
+# Hi, I'm A Vijaya Lakshmi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java Full Stack Developer
+
+💻 Passionate about building web applications and backend systems.
+
+- 🌱 Learning Java, Spring Boot, React and Microservices
+- ☕ Core Java | Spring Boot | Hibernate | SQL
+- 🌐 HTML | CSS | JavaScript | React
+- 🛠️ Tools: Git, GitHub, Postman, MySQL Workbench
+- 🚀 Interested in developing real-world projects
+
+### 🧰 Technical Skills
+
+Java • Spring Boot • Hibernate • SQL • HTML • CSS • JavaScript • React • Git
+
+### 📌 My Projects
+
+- **Weather Report Application** — Spring Boot, REST API and MySQL
+- **Employee Management System** — Spring MVC and MySQL
+
+### 🤝 Connect with Me
+
+[GitHub](https://github.com/vicky2024u)
